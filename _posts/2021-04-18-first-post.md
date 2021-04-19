@@ -7,4 +7,4 @@ categories: demo
 
 _Some italics here_ was pending because timestmp... now live!
 
-Link to [second post](2021-04-18-Second-post.md)
+Link to [second post](./2021-04-18-Second-post.md)
