@@ -6,3 +6,5 @@ categories: demo
 ---
 
 Another post to test linking between pages
+
+The [link to first page](2021-04-18-first-post.md)
