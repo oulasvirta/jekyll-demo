@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding build information to all pages"
+title:  "First post in demo category"
 date:   2021-04-18 08:00:09 +0300
 categories: demo
 ---
